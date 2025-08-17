@@ -1,6 +1,5 @@
 body {
   background: #9CCFFF;
-  text: red
 }
 
 div {
@@ -12,7 +11,23 @@ div {
     font-family: Great Vibes;
     font-size: 60px;
 }
+.fugaz-one-regular {
+  font-family: Fugaz One, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px
+}
 
-selector {
-  color: red;
+.fugaz-one-regular-small {
+  font-family: Fugaz One, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px
+}
+
+.fugaz-one-regular-tiny {
+  font-family: Fugaz One, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px
 }
